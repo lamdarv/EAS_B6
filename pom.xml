@@ -21,12 +21,7 @@
         <module>inventory-service</module>
         <module>discovery-server</module>
         <module>api-gateway</module>
-        <module>restaurant-service</module>
         <module>account-service</module>
-        <module>delivery-service</module>
-        <module>kitchen-service</module>
-        <module>consumer-service</module>
-        <module>accounting-service</module>
         <module>gerai-service</module>
     </modules>
 
